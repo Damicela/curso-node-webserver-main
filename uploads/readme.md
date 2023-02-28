@@ -1,0 +1,1 @@
+Este es un archivo para no dejar vacia la caréta upload y que el git la siga valorando.
